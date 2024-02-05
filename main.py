@@ -21,7 +21,7 @@ while True:
        cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 0, 200), 4)
        
        
-    cv2.imshow('Freme', frame)
+    cv2.imshow('Frame', frame)
     
     key = cv2.waitKey(1)
     
