@@ -32,6 +32,7 @@ class SimpleFacerec:
             basename = os.path.basename(img_path)
             (filename, ext) = os.path.splitext(basename)
             # Get encoding
+            print(basename)
             img_encoding = face_recognition.face_encodings(rgb_img)[0]
 
             # Store file name and file encoding
