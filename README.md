@@ -41,3 +41,10 @@ Davron Ikhmatullaev <img src='./static/img/tg.png' width="10" height="10"> [Те
 2. Обучение модели SVC (классификатор по методу опорных векторов) на наборе изображений. [Ссылка](https://github.com/ageitgey/face_recognition/blob/master/examples/face_recognition_svm.py)
 3. Обучение модели KNN (классификатор по методу ближайщих сосдей) на наборе изображений. [Ссылка](https://github.com/ageitgey/face_recognition/blob/master/examples/face_recognition_knn.py)
 4. Распознование лиц по вебкамере. [Ссылка](https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam.py)
+
+
+## 2й Этап.
+
+##### Проверка сборки библиотек OpenCV и deepface
+
+

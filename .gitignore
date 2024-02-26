@@ -2,3 +2,7 @@
 __pycache__/
 images/
 training_images/
+datasets/
+.env
+models/
+docs/
