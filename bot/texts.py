@@ -1,0 +1,1 @@
+hi_text = 'Hi, I AI bot, that recognize people by photo!'
