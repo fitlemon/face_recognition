@@ -1,0 +1,3 @@
+Framework,Parameter,Embedding_time,Macro_recall,Macro_precision,Macro_f1,KNN_params_recall,KNN_params_precision,KNN_params_f1,NaN_count
+Facenet-pytorch,vggface2,0.08,0.9639444444444444,0.9712970521541952,0.9614269857127,"{'metric': 'cosine', 'n_neighbors': 3}","{'metric': 'cosine', 'n_neighbors': 3}","{'metric': 'cosine', 'n_neighbors': 3}",96
+Facenet-pytorch,casia-webface,0.08,0.9152380952380952,0.9288356009070295,0.9090860938003795,"{'metric': 'cosine', 'n_neighbors': 4}","{'metric': 'cosine', 'n_neighbors': 4}","{'metric': 'cosine', 'n_neighbors': 4}",96
