@@ -1,0 +1,5 @@
+Framework,Parameter,Embedding_time,Macro_recall,Macro_precision,Macro_f1,KNN_params_recall,KNN_params_precision,KNN_params_f1,NaN_count
+DeepFace,VGG-Face_fastmtcnn,0.04,0.7804108193894315,0.7478655326768983,0.7510238474782754,"{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'cosine', 'n_neighbors': 1}",0
+DeepFace,Facenet_fastmtcnn,0.14,0.8158792114929764,0.787626013918778,0.7905651412165202,"{'metric': 'cosine', 'n_neighbors': 3}","{'metric': 'cosine', 'n_neighbors': 3}","{'metric': 'cosine', 'n_neighbors': 3}",0
+DeepFace,Facenet512_fastmtcnn,0.14,0.8631882691970683,0.8377885190942843,0.8406318830053422,"{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'cosine', 'n_neighbors': 1}",0
+DeepFace,OpenFace_fastmtcnn,0.07,0.048902818776024336,0.04048140198221519,0.04149124307908804,"{'metric': 'cosine', 'n_neighbors': 3}","{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'cosine', 'n_neighbors': 3}",0
