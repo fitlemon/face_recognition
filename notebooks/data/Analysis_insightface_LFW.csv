@@ -1,0 +1,6 @@
+Framework,Parameter,Embedding_time,Rank-1 Accuracy,Macro_recall,Macro_precision,Macro_f1,KNN_params_recall,KNN_params_precision,KNN_params_f1,NaN_count
+Insightface,buffalo_sc,0.04,0.9719252208807608,0.974795386904762,0.9759477749433106,0.9720617618890992,"{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'l2', 'n_neighbors': 3}","{'metric': 'l2', 'n_neighbors': 3}",7
+Insightface,buffalo_s,0.05,0.9719252208807608,0.974795386904762,0.9759477749433106,0.9720617618890992,"{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'l2', 'n_neighbors': 3}","{'metric': 'l2', 'n_neighbors': 3}",7
+Insightface,buffalo_m,0.16,0.9801611903285804,0.9801365611421478,0.9772004965859714,0.9765230114392126,"{'metric': 'cosine', 'n_neighbors': 3}","{'metric': 'cosine', 'n_neighbors': 3}","{'metric': 'cosine', 'n_neighbors': 3}",8
+Insightface,buffalo_l,0.23,0.9813971418125168,0.982588454376164,0.9809093730602112,0.979020369243833,"{'metric': 'cosine', 'n_neighbors': 3}","{'metric': 'l2', 'n_neighbors': 1}","{'metric': 'l2', 'n_neighbors': 3}",7
+Insightface,antelopev2,0.45,0.9820172328121851,0.9827746741154563,0.9810366232153941,0.9797032307646832,"{'metric': 'cosine', 'n_neighbors': 3}","{'metric': 'cosine', 'n_neighbors': 3}","{'metric': 'cosine', 'n_neighbors': 3}",7

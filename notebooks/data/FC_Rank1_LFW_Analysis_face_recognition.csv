@@ -1,0 +1,3 @@
+Framework,Parameter,Embedding_time,Rank-1-Accuracy,Macro_recall,Macro_precision,Macro_f1,KNN_params_recall,KNN_params_precision,KNN_params_f1,NaN_count,Delete_count
+Face_recognition,hog,0.41,0.9714524677581085,0.9677579365079364,0.9621775793650794,0.960825007086168,"{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'cosine', 'n_neighbors': 1}",17,8
+Face_recognition,cnn,0.47,0.9714524677581085,0.9677579365079364,0.9621775793650794,0.9608250070861679,"{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'cosine', 'n_neighbors': 1}","{'metric': 'cosine', 'n_neighbors': 1}",17,8
